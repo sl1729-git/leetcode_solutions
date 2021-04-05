@@ -1,250 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e67d2dd9-8241-41ce-aa97-a02f517db704" name="Default Changelist" comment="初次提交已写过的leetcode题目">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_solutions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition/Solution1684.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition/Solution1686.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition/Solution5539.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition/Solution5540.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition/Solution5541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Solution16_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interview/Solution17_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution147.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution173.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution188.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution190.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution191.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution204.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution224.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution228.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution232.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution239.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution303.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution316.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution321.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution327.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution331.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution338.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution376.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution387.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution424.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution448.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution452.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution454.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution455.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution456.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution463.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution485.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1202_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1232.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1319.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1356.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1365.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1370.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1423.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1489.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1579.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1603.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution509.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution514.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution547.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution567.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution605.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution621.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution628.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution643.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution649.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution659.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution665.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution674.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution684.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution697.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution703.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution705.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution706.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution714.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution724.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution738.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution746.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution763.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution765.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution766.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution778.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution781.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution830.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution832.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution839.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution842.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution844.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution845.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution860.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution861.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution867.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution870.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution888.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution925.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution940.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution941.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution947.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution959.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution973.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution976.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution977.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution978.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution989.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution992.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution995.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution89.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Solution99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution50_99/Sulution73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/LineTree1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/NestedInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/NestedIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/RandomizedCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/UnionFind.java" afterDir="false" />
+    <list default="true" id="e67d2dd9-8241-41ce-aa97-a02f517db704" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution100_150/Solution113.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -260,7 +19,20 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution100_150/Solution113.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="9" selection-start-line="9" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -282,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution1047.java" />
         <option value="$PROJECT_DIR$/src/Solution100_150/Solution125.java" />
         <option value="$PROJECT_DIR$/src/Solution224.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1052.java" />
@@ -333,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/Solution500_/Solution781.java" />
         <option value="$PROJECT_DIR$/src/Solution50_99/Solution88.java" />
         <option value="$PROJECT_DIR$/src/Solution100_150/Solution112.java" />
+        <option value="$PROJECT_DIR$/src/Solution100_150/Solution113.java" />
       </list>
     </option>
   </component>
@@ -344,9 +116,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
-    <option name="y" value="127" />
+    <option name="y" value="126" />
     <option name="width" value="1440" />
-    <option name="height" value="774" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -487,12 +259,30 @@
       <option name="presentableId" value="Default" />
       <updated>1601460499219</updated>
     </task>
+    <task id="LOCAL-00001" summary="初次提交已写过的leetcode题目">
+      <created>1617625762939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617625762939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -505,10 +295,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4936351" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32294616" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -542,6 +332,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -1498,26 +1302,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution503.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution50_99/Solution54.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution50_99/Solution59.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -1888,10 +1672,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1_49/Solution37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution100_150/Solution112.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="176">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution100_150/Solution113.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" selection-start-line="9" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
