@@ -6,6 +6,9 @@ import java.util.Map;
 public class Solution220 {
 
     private long getId(long num, long distance){
+        //如此判断负数的原因是，比如-1，0，1，如果用distance = 1去划分，会分到一组
+        //所以人为的，把负数放到后面一组分开，变为-2，-1一组，0，1一组
+        //由于有对前后的检查，所以并不要紧
         return (num >= 0) ? num/distance : ((num + 1)/distance - 1);
     }
 
