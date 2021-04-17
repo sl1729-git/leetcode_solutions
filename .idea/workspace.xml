@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67d2dd9-8241-41ce-aa97-a02f517db704" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution220.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution153.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution153.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution154.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution154.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution172.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution173.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution173.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution179.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution179.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution188.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution188.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution189.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution190.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution190.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution191.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution191.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution198.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution204.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution204.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution205.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution213.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution218.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution218.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution222.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution222.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution224.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution224.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution228.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution228.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution232.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution234.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution239.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution239.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution263.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution264.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution151_300/Solution290.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution303.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution304.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution316.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution316.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution321.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution321.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution327.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution327.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution331.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution331.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution338.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution338.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution349.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution349.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution376.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution376.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution387.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution387.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution389.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution399.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution399.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution424.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution424.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution435.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution435.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution448.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution452.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution452.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution454.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution454.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution455.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution455.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution456.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution456.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution463.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution485.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution301_499/Solution485.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +21,49 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution208.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1710#1711#0" expanded="true" />
+                <element signature="e#1752#1753#0" expanded="true" />
+                <element signature="e#2331#2332#0" expanded="true" />
+                <element signature="e#2361#2362#0" expanded="true" />
+                <element signature="e#3012#3013#0" expanded="true" />
+                <element signature="e#3047#3048#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution220.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" selection-start-line="7" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution219.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,8 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution338.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution503.java" />
         <option value="$PROJECT_DIR$/src/Solution50_99/Solution54.java" />
         <option value="$PROJECT_DIR$/src/Solution50_99/Solution59.java" />
         <option value="$PROJECT_DIR$/src/Solution100_150/Solution150.java" />
@@ -138,6 +134,8 @@
         <option value="$PROJECT_DIR$/src/Solution213.java" />
         <option value="$PROJECT_DIR$/src/Solution198.java" />
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution198.java" />
+        <option value="$PROJECT_DIR$/src/Solution151_300/Solution208.java" />
+        <option value="$PROJECT_DIR$/src/Solution151_300/Solution220.java" />
       </list>
     </option>
   </component>
@@ -177,6 +175,12 @@
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution151_300" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -204,27 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution198">
-    <configuration name="Solution1201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution1201" />
-      <module name="leetcode_solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Solution500_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution154" />
-      <module name="leetcode_solutions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution220">
     <configuration name="Solution179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution179" />
       <module name="leetcode_solutions" />
@@ -239,6 +223,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution208" />
+      <module name="leetcode_solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution151_300.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution213" />
       <module name="leetcode_solutions" />
@@ -246,13 +243,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution220" />
+      <module name="leetcode_solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution151_300.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution220" />
+        <item itemvalue="Application.Solution208" />
         <item itemvalue="Application.Solution198" />
         <item itemvalue="Application.Solution213" />
         <item itemvalue="Application.Solution179" />
-        <item itemvalue="Application.Solution1201" />
-        <item itemvalue="Application.Solution154" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618495901057</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="按区间整理">
+      <created>1618496072727</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618496072727</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -323,6 +340,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27345845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -334,14 +352,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.15722379" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49291784" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.49291784" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32152975" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32152975" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,7 +418,8 @@
     <MESSAGE value="丑数的两个和最大数的一道，以及旋转数组的最小值" />
     <MESSAGE value="平衡树的题目" />
     <MESSAGE value="198和213题，动态规划" />
-    <option name="LAST_COMMIT_MESSAGE" value="198和213题，动态规划" />
+    <MESSAGE value="按区间整理" />
+    <option name="LAST_COMMIT_MESSAGE" value="按区间整理" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1383,6 +1402,36 @@
           <properties />
           <option name="timeStamp" value="290" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution151_300/Solution208.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution151_300/Solution208.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution151_300/Solution208.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution151_300/Solution208.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution151_300/Solution220.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solution50_99/Solution66.java</url>
           <line>29</line>
@@ -1394,7 +1443,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solution151_300/Solution213.java</url>
           <line>34</line>
-          <properties class="Solution213" method="main">
+          <properties class="Solution151_300.Solution213">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="285" />
@@ -1406,44 +1455,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution100_150/Solution102.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="26" column="43" lean-forward="true" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution100_150/Solution146.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution100_150/Solution101.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution50_99/Solution82.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution50_99/Solution84.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1502,13 +1513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="740" column="14" selection-start-line="740" selection-start-column="14" selection-end-line="740" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1787,6 +1791,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="740" column="14" selection-start-line="740" selection-start-column="14" selection-end-line="740" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1710#1711#0" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#2331#2332#0" expanded="true" />
+            <element signature="e#2361#2362#0" expanded="true" />
+            <element signature="e#3012#3013#0" expanded="true" />
+            <element signature="e#3047#3048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1_49/Solution26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution219.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
