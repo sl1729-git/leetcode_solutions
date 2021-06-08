@@ -11,9 +11,9 @@
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution403.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution461.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution477.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution494.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1011.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1049.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1190.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1269.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1310.java" afterDir="false" />
@@ -98,10 +98,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution494.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1049.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+            <state relative-caret-position="128">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -140,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution263.java" />
         <option value="$PROJECT_DIR$/src/Solution264.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1201.java" />
         <option value="$PROJECT_DIR$/src/Solution179.java" />
@@ -191,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution155.java" />
         <option value="$PROJECT_DIR$/src/Solution301_499/Solution474.java" />
         <option value="$PROJECT_DIR$/src/Solution301_499/Solution494.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution1049.java" />
       </list>
     </option>
   </component>
@@ -235,12 +235,6 @@
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution301_499" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Solution500_" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -277,13 +271,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution494">
-    <configuration name="Solution155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution155" />
+  <component name="RunManager" selected="Application.Solution1049">
+    <configuration name="Solution1049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution1049" />
       <module name="leetcode_solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution151_300.*" />
+          <option name="PATTERN" value="Solution500_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution1744" />
+    <configuration name="Solution155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution155" />
       <module name="leetcode_solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution500_.*" />
+          <option name="PATTERN" value="Solution151_300.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1049" />
         <item itemvalue="Application.Solution494" />
         <item itemvalue="Application.Solution474" />
         <item itemvalue="Application.Solution155" />
         <item itemvalue="Application.Solution525" />
-        <item itemvalue="Application.Solution1744" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623135572385</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="将问题转化为背包问题，然后伪动规解决">
+      <created>1623136864183</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1623136864183</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -538,7 +539,8 @@
     <MESSAGE value="增加id获取的说明" />
     <MESSAGE value="155题单调栈解决" />
     <MESSAGE value="伪动规解决背包问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="伪动规解决背包问题" />
+    <MESSAGE value="将问题转化为背包问题，然后伪动规解决" />
+    <option name="LAST_COMMIT_MESSAGE" value="将问题转化为背包问题，然后伪动规解决" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1707,6 +1709,24 @@
           <properties />
           <option name="timeStamp" value="345" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution1049.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution1049.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution1049.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solution50_99/Solution66.java</url>
           <line>29</line>
@@ -1723,6 +1743,14 @@
           </properties>
           <option name="timeStamp" value="285" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution1049.java</url>
+          <line>33</line>
+          <properties class="Solution500_.Solution1049" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1730,13 +1758,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution191.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution190.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -2153,6 +2174,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution494.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1473.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -2160,10 +2188,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution494.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1049.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        <state relative-caret-position="128">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
