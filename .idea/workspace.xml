@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e67d2dd9-8241-41ce-aa97-a02f517db704" name="Default Changelist" comment="动态规划解决找零最少硬币数">
+    <list default="true" id="e67d2dd9-8241-41ce-aa97-a02f517db704" name="Default Changelist" comment="二分的思想解决找数组峰的问题">
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution160.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution203.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution208.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution238.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution342.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution377.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution403.java" afterDir="false" />
@@ -35,7 +36,6 @@
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution692.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution740.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution810.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution852.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution872.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution897.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution938.java" afterDir="false" />
@@ -98,10 +98,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution852.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution238.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="112">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -140,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution198.java" />
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution198.java" />
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution208.java" />
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution219.java" />
@@ -191,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/Solution500_/Solution879.java" />
         <option value="$PROJECT_DIR$/src/Solution301_499/Solution322.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution852.java" />
+        <option value="$PROJECT_DIR$/src/Solution151_300/Solution238.java" />
       </list>
     </option>
   </component>
@@ -235,7 +235,7 @@
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution500_" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution151_300" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
@@ -477,7 +477,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623427619756</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="二分的思想解决找数组峰的问题">
+      <created>1623770211368</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1623770211368</updated>
+    </task>
+    <task id="LOCAL-00019" summary="添加return的判别说明">
+      <created>1623770276451</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1623770276451</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -493,7 +507,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35656837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35656837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -502,7 +516,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15580736" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15580736" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45042494" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,7 +594,9 @@
     <MESSAGE value="动态规划解决找零方案数" />
     <MESSAGE value="动态规划解决盈利计划数" />
     <MESSAGE value="动态规划解决找零最少硬币数" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划解决找零最少硬币数" />
+    <MESSAGE value="二分的思想解决找数组峰的问题" />
+    <MESSAGE value="添加return的判别说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加return的判别说明" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1816,13 +1832,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution377.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution897.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -2229,6 +2238,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution852.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1473.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -2236,10 +2252,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution852.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution238.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        <state relative-caret-position="112">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
