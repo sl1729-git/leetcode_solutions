@@ -22,6 +22,7 @@ public class Solution852 {
                 right = mid;
         }
 
+        //如果结果是数组边界，那说明没有峰
         return ret == 0 || ret == arr.length - 1 ? -1 : ret;
     }
 
