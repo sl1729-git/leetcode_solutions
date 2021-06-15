@@ -1,7 +1,7 @@
 package Solution151_300;
 
 class VersionControl{
-    int fitstBadVersion = 3;
+    private int fitstBadVersion = 3;
 
     public int getFitstBadVersion() {
         return fitstBadVersion;
