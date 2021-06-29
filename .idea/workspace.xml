@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution203.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution208.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1_49/Solution40.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution342.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution377.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution403.java" afterDir="false" />
@@ -34,7 +35,6 @@
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution690.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution692.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution740.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution773.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution810.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution872.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution897.java" afterDir="false" />
@@ -42,6 +42,7 @@
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution993.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Utils/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution1_49/Solution39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution1_49/Solution39.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,16 +110,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution773.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution1_49/Solution39.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" selection-start-line="5" selection-end-line="93" selection-end-column="5" />
+            <state relative-caret-position="64">
+              <caret line="46" selection-start-line="46" selection-end-line="97" selection-end-column="5" />
               <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#1924#1925#0" expanded="true" />
-                <element signature="e#1981#1982#0" expanded="true" />
+                <element signature="e#1883#1884#0" expanded="true" />
+                <element signature="e#1958#1959#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution1_49/Solution40.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+              <folding>
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution872.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution1734.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1310.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1269.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution993.java" />
@@ -197,6 +207,8 @@
         <option value="$PROJECT_DIR$/src/Solution500_/Solution909.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution815.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution773.java" />
+        <option value="$PROJECT_DIR$/src/Solution1_49/Solution39.java" />
+        <option value="$PROJECT_DIR$/src/Solution1_49/Solution40.java" />
       </list>
     </option>
   </component>
@@ -239,7 +251,7 @@
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution151_300" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution1_49" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
@@ -283,13 +295,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution773">
-    <configuration name="Solution168" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution168" />
+  <component name="RunManager" selected="Application.Solution40">
+    <configuration name="Solution39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution1_49.Solution39" />
       <module name="leetcode_solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution151_300.*" />
+          <option name="PATTERN" value="Solution1_49.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Offer.Solution38" />
+    <configuration name="Solution40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution1_49.Solution40" />
       <module name="leetcode_solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Offer.*" />
+          <option name="PATTERN" value="Solution1_49.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution40" />
+        <item itemvalue="Application.Solution39" />
         <item itemvalue="Application.Solution773" />
         <item itemvalue="Application.Solution909" />
         <item itemvalue="Application.Solution752" />
-        <item itemvalue="Application.Solution168" />
-        <item itemvalue="Application.Solution38" />
       </list>
     </recent_temporary>
   </component>
@@ -657,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624976589783</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="广度优先搜索">
+      <created>1624978278776</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1624978278776</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -743,7 +762,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="动态规划解决找零方案数" />
     <MESSAGE value="动态规划解决盈利计划数" />
     <MESSAGE value="动态规划解决找零最少硬币数" />
     <MESSAGE value="添加return的判别说明" />
@@ -768,7 +786,8 @@
     <MESSAGE value="将arrive和deadstate合并，减少一半的查询" />
     <MESSAGE value="广搜解决" />
     <MESSAGE value="广度优先搜索+部分简单优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="广度优先搜索+部分简单优化" />
+    <MESSAGE value="广度优先搜索" />
+    <option name="LAST_COMMIT_MESSAGE" value="广度优先搜索" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2033,6 +2052,18 @@
           <properties />
           <option name="timeStamp" value="370" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution1_49/Solution39.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution1_49/Solution40.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solution50_99/Solution66.java</url>
           <line>29</line>
@@ -2064,26 +2095,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution810.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1707.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution461.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -2510,6 +2521,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution773.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-993">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#2128#2129#0" expanded="true" />
+            <element signature="e#2185#2186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1723.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -2520,15 +2544,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution773.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution1_49/Solution39.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="93" selection-end-column="5" />
+        <state relative-caret-position="64">
+          <caret line="46" selection-start-line="46" selection-end-line="97" selection-end-column="5" />
           <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#1924#1925#0" expanded="true" />
-            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#1883#1884#0" expanded="true" />
+            <element signature="e#1958#1959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1_49/Solution40.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+          <folding>
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
           </folding>
         </state>
       </provider>

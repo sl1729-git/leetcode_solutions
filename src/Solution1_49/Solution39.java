@@ -44,7 +44,63 @@ public class Solution39 {
         return null;
     }
 
+    class Node{
+        int[] candidates;
+        int index;
+        int target;
+        List<Integer> ans = new ArrayList<>();
+
+        Node(int[] candidates, int index, int target, List<Integer> ans){
+            this.candidates = candidates;
+            this.index = index;
+            this.target = target;
+            this.ans.addAll(ans);
+        }
+
+        private void take(){
+            this.target -= candidates[this.index];
+            this.ans.add(candidates[index]);
+        }
+
+        public Node getNextPlus1(){
+            return new Node(candidates, index + 1, target, ans);
+        }
+
+        public Node getNextPlus0(){
+            take();
+            return this;
+        }
+    }
+
+    /**
+     *
+     * @param candidates 非空且所有元素必须是正整数
+     * @param target 无要求
+     * @return 可以从candidates中取出若干数的具体方案
+     */
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        return null;
+        if (candidates == null)
+            return new ArrayList<>();
+        List<List<Integer>> ret = new ArrayList<>();
+        List<Node> quene = new ArrayList<>();
+        quene.add(new Node(candidates, 0, target, new ArrayList<>()));
+        while (!quene.isEmpty()){
+            Node current = quene.remove(0);
+            if (current.target == 0)
+                ret.add(current.ans);
+            if (current.target <= 0)
+                continue;
+            if (current.index < candidates.length - 1)
+                quene.add(current.getNextPlus1());
+            quene.add(current.getNextPlus0());
+        }
+        return ret;
+    }
+
+    public static void main(String[] args) {
+        int[] candidates = new int[]{2,3,6,7};
+        int target = 7;
+        Solution39 s = new Solution39();
+        System.out.println(s.combinationSum(candidates, target));
     }
 }
