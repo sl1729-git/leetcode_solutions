@@ -34,10 +34,10 @@
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution690.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution692.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution740.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution752.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution810.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution872.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution897.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution909.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution938.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution993.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Utils/Employee.java" afterDir="false" />
@@ -110,10 +110,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution752.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution909.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution1473.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1723.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1482.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution872.java" />
@@ -194,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/Offer/Solution16.java" />
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution168.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution752.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution909.java" />
       </list>
     </option>
   </component>
@@ -280,20 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution752">
-    <configuration name="Solution1600" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution1600" />
-      <module name="leetcode_solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Solution500_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution909">
     <configuration name="Solution168" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution151_300.Solution168" />
       <module name="leetcode_solutions" />
@@ -346,13 +333,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution909" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution909" />
+      <module name="leetcode_solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution500_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution909" />
         <item itemvalue="Application.Solution752" />
         <item itemvalue="Application.Solution168" />
         <item itemvalue="Application.Solution38" />
         <item itemvalue="Application.Solution401" />
-        <item itemvalue="Application.Solution1600" />
       </list>
     </recent_temporary>
   </component>
@@ -626,7 +626,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624933538159</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="广搜解决，并使用int压缩状态编码">
+      <created>1624936329104</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1624936329105</updated>
+    </task>
+    <task id="LOCAL-00039" summary="将arrive和deadstate合并，减少一半的查询">
+      <created>1624936487522</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1624936487522</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -712,8 +726,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="伪动规解决背包问题" />
-    <MESSAGE value="将问题转化为背包问题，然后伪动规解决" />
     <MESSAGE value="转化为494，然后进行一定的精简" />
     <MESSAGE value="动态规划求解" />
     <MESSAGE value="动态规划解决找零方案数" />
@@ -737,7 +749,9 @@
     <MESSAGE value="偷懒调库，本题的解法在Solution191已有" />
     <MESSAGE value="这里需要简单的变换一下才是进制转换" />
     <MESSAGE value="一个错误修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="一个错误修正" />
+    <MESSAGE value="广搜解决，并使用int压缩状态编码" />
+    <MESSAGE value="将arrive和deadstate合并，减少一半的查询" />
+    <option name="LAST_COMMIT_MESSAGE" value="将arrive和deadstate合并，减少一半的查询" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1996,6 +2010,12 @@
           <properties />
           <option name="timeStamp" value="363" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution909.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solution50_99/Solution66.java</url>
           <line>29</line>
@@ -2027,17 +2047,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="121" column="11" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
-          <folding>
-            <element signature="e#4308#4309#0" expanded="true" />
-            <element signature="e#4360#4361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution692.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -2464,6 +2473,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution168.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution752.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="6" selection-start-line="8" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1723.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -2474,17 +2500,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution168.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution752.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution909.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
