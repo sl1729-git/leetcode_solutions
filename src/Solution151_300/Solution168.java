@@ -13,7 +13,7 @@ public class Solution168 {
         int size = 0;
         while (columnNumber > 0){
             ret[size] = (columnNumber - 1) % 26;
-            columnNumber = (columnNumber - ret[size++]) / 26;
+            columnNumber = (columnNumber - ret[size++] - 1) / 26;
         }
 
         StringBuilder builder = new StringBuilder();

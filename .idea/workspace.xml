@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e67d2dd9-8241-41ce-aa97-a02f517db704" name="Default Changelist" comment="这里需要简单的变换一下">
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution168.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution203.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution208.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution231.java" afterDir="false" />
@@ -41,7 +40,6 @@
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution938.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution993.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Utils/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,10 +108,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution168.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution752.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            <state relative-caret-position="32">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -233,7 +231,7 @@
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution151_300" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution500_" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
@@ -603,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624930533881</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="这里需要简单的变换一下才是进制转换">
+      <created>1624933285829</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1624933285829</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -619,7 +624,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21715818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21715818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -628,7 +633,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38668555" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38668555" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45042494" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -689,7 +694,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加id获取的说明" />
     <MESSAGE value="155题单调栈解决" />
     <MESSAGE value="伪动规解决背包问题" />
     <MESSAGE value="将问题转化为背包问题，然后伪动规解决" />
@@ -714,7 +718,8 @@
     <MESSAGE value="枚举" />
     <MESSAGE value="全排列" />
     <MESSAGE value="偷懒调库，本题的解法在Solution191已有" />
-    <option name="LAST_COMMIT_MESSAGE" value="偷懒调库，本题的解法在Solution191已有" />
+    <MESSAGE value="这里需要简单的变换一下才是进制转换" />
+    <option name="LAST_COMMIT_MESSAGE" value="这里需要简单的变换一下才是进制转换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1998,13 +2003,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1269.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-50">
@@ -2442,6 +2440,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution168.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1723.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -2452,10 +2457,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution168.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution752.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="32">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
