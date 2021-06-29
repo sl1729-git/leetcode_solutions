@@ -64,9 +64,6 @@ public class Solution752 {
 
         //广搜的队列
         List<Integer> quene = new ArrayList<>();
-        //避免重复到达的计算
-        Set<Integer> arrived = new HashSet<>();
-        arrived.add(0);
         int current = 0;
         int targetInt = str2int(target);
         int state = 0;
@@ -78,10 +75,10 @@ public class Solution752 {
             int[] nexts = getNEXT(current);
             for (int next:nexts) {
                 state = next & 0xffff;
-                if (deadstep.contains(state) || arrived.contains(state))
+                if (deadstep.contains(state))
                     continue;
                 quene.add(next);
-                arrived.add(state);
+                deadstep.add(state);
             }
         }
 
