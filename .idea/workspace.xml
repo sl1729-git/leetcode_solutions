@@ -34,12 +34,14 @@
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution690.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution692.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution740.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution752.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution810.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution872.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution897.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution938.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution993.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Utils/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,8 +112,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution752.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="128">
+              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution554.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1473.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1723.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1482.java" />
@@ -189,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/Offer/Solution38.java" />
         <option value="$PROJECT_DIR$/src/Offer/Solution16.java" />
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution168.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution752.java" />
       </list>
     </option>
   </component>
@@ -226,6 +231,12 @@
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution151_300" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
@@ -269,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution168">
+  <component name="RunManager" selected="Application.Solution752">
     <configuration name="Solution1600" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution500_.Solution1600" />
       <module name="leetcode_solutions" />
@@ -322,12 +333,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution483" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution301_499.Solution483" />
+    <configuration name="Solution752" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution752" />
       <module name="leetcode_solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution301_499.*" />
+          <option name="PATTERN" value="Solution500_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,11 +348,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution752" />
         <item itemvalue="Application.Solution168" />
         <item itemvalue="Application.Solution38" />
         <item itemvalue="Application.Solution401" />
         <item itemvalue="Application.Solution1600" />
-        <item itemvalue="Application.Solution483" />
       </list>
     </recent_temporary>
   </component>
@@ -608,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624933285829</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="一个错误修正">
+      <created>1624933538159</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1624933538159</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -624,7 +642,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21715818" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21715818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -633,7 +651,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38668555" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38668555" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45042494" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -694,7 +712,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="155题单调栈解决" />
     <MESSAGE value="伪动规解决背包问题" />
     <MESSAGE value="将问题转化为背包问题，然后伪动规解决" />
     <MESSAGE value="转化为494，然后进行一定的精简" />
@@ -719,7 +736,8 @@
     <MESSAGE value="全排列" />
     <MESSAGE value="偷懒调库，本题的解法在Solution191已有" />
     <MESSAGE value="这里需要简单的变换一下才是进制转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="这里需要简单的变换一下才是进制转换" />
+    <MESSAGE value="一个错误修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="一个错误修正" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1972,6 +1990,12 @@
           <properties />
           <option name="timeStamp" value="362" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution752.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solution50_99/Solution66.java</url>
           <line>29</line>
@@ -2440,13 +2464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution168.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1723.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -2457,10 +2474,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution168.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution752.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="128">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
