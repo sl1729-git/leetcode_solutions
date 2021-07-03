@@ -28,9 +28,9 @@ public class Solution451 {
 
         StringBuilder ret = new StringBuilder();
         Arrays.sort(pairs, (o1, o2) -> Integer.compare(o2[1],o1[1]));
-        for (int i = 0; i < pairs.length; i++) {
-            int times = pairs[i][1];
-            char currentChar = (char)pairs[i][0];
+        for (int[] pair : pairs) {
+            int times = pair[1];
+            char currentChar = (char) pair[0];
             for (int j = 0; j < times; j++) {
                 ret.append(currentChar);
             }
