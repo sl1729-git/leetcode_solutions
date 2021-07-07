@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67d2dd9-8241-41ce-aa97-a02f517db704" name="Default Changelist" comment="这里需要简单的变换一下">
-      <change afterPath="$PROJECT_DIR$/src/LCP/Solution7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution160.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution203.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution208.java" afterDir="false" />
@@ -17,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1190.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1269.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1310.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1418.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1442.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1473.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1482.java" afterDir="false" />
@@ -62,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution208.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="46" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+            <state relative-caret-position="704">
+              <caret line="46" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,10 +111,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LCP/Solution7.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1418.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="26" />
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -141,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution1738.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution692.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1035.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution810.java" />
@@ -192,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/Solution500_/Solution645.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1883.java" />
         <option value="$PROJECT_DIR$/src/LCP/Solution7.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution1418.java" />
       </list>
     </option>
   </component>
@@ -213,6 +213,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,14 +242,18 @@
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution500_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -681,7 +687,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625329376074</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="动态规划">
+      <created>1625330459145</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1625330459145</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -697,7 +710,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -706,7 +719,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38668555" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38668555" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45042494" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -767,7 +780,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="分解乘法的步骤完成" />
     <MESSAGE value="二分法猜数，注意溢出问题" />
     <MESSAGE value="二分搜索求第一个出错版本" />
     <MESSAGE value="找二叉树第k小，递归方法" />
@@ -792,7 +804,8 @@
     <MESSAGE value="哈希优化" />
     <MESSAGE value="用foreach迭代" />
     <MESSAGE value="异或和数组本身空间的使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="异或和数组本身空间的使用" />
+    <MESSAGE value="动态规划" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态规划" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2112,17 +2125,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution231.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution342.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -2514,6 +2516,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution451.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution645.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1883.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LCP/Solution7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="46" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution403.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -2535,43 +2581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution451.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution645.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution208.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="46" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1883.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1723.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -2582,10 +2591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LCP/Solution7.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1418.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="26" />
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
