@@ -2,20 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e67d2dd9-8241-41ce-aa97-a02f517db704" name="Default Changelist" comment="这里需要简单的变换一下">
+      <change afterPath="$PROJECT_DIR$/src/Interview/Solution17_11.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution160.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution203.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution223.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution151_300/Solution231.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution342.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution371.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution377.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution405.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution447.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution461.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution477.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution301_499/Solution482.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1011.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1035.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1190.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1269.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1310.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1436.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1442.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1473.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1482.java" afterDir="false" />
@@ -27,20 +36,26 @@
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1738.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1744.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1883.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution1894.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution523.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution524.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution525.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution554.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution600.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution633.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution664.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution678.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution690.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution692.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution726.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution740.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution787.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution810.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution872.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution897.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution938.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution500_/Solution993.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Param.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Query.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Utils/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -60,10 +75,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution208.java">
+        <entry file="file://$PROJECT_DIR$/src/Test/Param.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="46" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+            <state relative-caret-position="1968">
+              <caret line="123" column="5" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution210.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Interview/Solution17_11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,37 +108,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution403.java">
+        <entry file="file://$PROJECT_DIR$/src/Test/Query.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution664.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1473.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution726.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="64">
+              <caret line="8" selection-start-line="8" selection-end-line="176" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,23 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution301_499/Solution461.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution1190.java" />
-        <option value="$PROJECT_DIR$/src/Solution301_499/Solution477.java" />
-        <option value="$PROJECT_DIR$/src/Solution151_300/Solution231.java" />
-        <option value="$PROJECT_DIR$/src/Solution301_499/Solution342.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution1744.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution523.java" />
-        <option value="$PROJECT_DIR$/src/Solution151_300/Solution160.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution525.java" />
-        <option value="$PROJECT_DIR$/src/Solution151_300/Solution203.java" />
-        <option value="$PROJECT_DIR$/src/Solution151_300/Solution155.java" />
-        <option value="$PROJECT_DIR$/src/Solution301_499/Solution474.java" />
-        <option value="$PROJECT_DIR$/src/Solution301_499/Solution494.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution1049.java" />
-        <option value="$PROJECT_DIR$/src/Solution151_300/Solution279.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution518.java" />
-        <option value="$PROJECT_DIR$/src/Solution500_/Solution879.java" />
         <option value="$PROJECT_DIR$/src/Solution301_499/Solution322.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution852.java" />
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution238.java" />
@@ -180,6 +175,23 @@
         <option value="$PROJECT_DIR$/src/Solution500_/Solution1473.java" />
         <option value="$PROJECT_DIR$/src/Solution151_300/Solution297.java" />
         <option value="$PROJECT_DIR$/src/Solution500_/Solution726.java" />
+        <option value="$PROJECT_DIR$/src/Solution301_499/Solution403.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution787.java" />
+        <option value="$PROJECT_DIR$/src/Test/Query.java" />
+        <option value="$PROJECT_DIR$/src/Test/Param.java" />
+        <option value="$PROJECT_DIR$/src/Solution151_300/Solution210.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution524.java" />
+        <option value="$PROJECT_DIR$/src/Solution301_499/Solution447.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution678.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution600.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution1894.java" />
+        <option value="$PROJECT_DIR$/src/Solution301_499/Solution371.java" />
+        <option value="$PROJECT_DIR$/src/Solution301_499/Solution437.java" />
+        <option value="$PROJECT_DIR$/src/Solution151_300/Solution223.java" />
+        <option value="$PROJECT_DIR$/src/Solution500_/Solution1436.java" />
+        <option value="$PROJECT_DIR$/src/Solution301_499/Solution405.java" />
+        <option value="$PROJECT_DIR$/src/Solution301_499/Solution482.java" />
+        <option value="$PROJECT_DIR$/src/Interview/Solution17_11.java" />
       </list>
     </option>
   </component>
@@ -190,10 +202,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-20" />
+    <option name="y" value="50" />
+    <option name="width" value="1600" />
+    <option name="height" value="1465" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,8 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,24 +223,13 @@
             <path>
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LCP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution500_" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_solutions" type="b2602c69:ProjectViewProjectNode" />
@@ -242,6 +241,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,9 +267,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution726">
-    <configuration name="Solution1711" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution1711" />
+  <component name="RunManager" selected="Application.Solution17_11">
+    <configuration name="Solution17_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview.Solution17_11" />
+      <module name="leetcode_solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution371" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution301_499.Solution371" />
+      <module name="leetcode_solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution301_499.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution437" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution301_499.Solution437" />
+      <module name="leetcode_solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution301_499.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution524" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution524" />
       <module name="leetcode_solutions" />
       <extension name="coverage">
         <pattern>
@@ -280,47 +320,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1883" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution1883" />
-      <module name="leetcode_solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Solution500_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Offer.Solution37" />
-      <module name="leetcode_solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution645" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution645" />
-      <module name="leetcode_solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Solution500_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution726" />
+    <configuration name="Solution600" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution500_.Solution600" />
       <module name="leetcode_solutions" />
       <extension name="coverage">
         <pattern>
@@ -334,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution726" />
-        <item itemvalue="Application.Solution37" />
-        <item itemvalue="Application.Solution1711" />
-        <item itemvalue="Application.Solution1883" />
-        <item itemvalue="Application.Solution645" />
+        <item itemvalue="Application.Solution17_11" />
+        <item itemvalue="Application.Solution437" />
+        <item itemvalue="Application.Solution371" />
+        <item itemvalue="Application.Solution600" />
+        <item itemvalue="Application.Solution524" />
       </list>
     </recent_temporary>
   </component>
@@ -352,13 +353,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601460499219</updated>
-    </task>
-    <task id="LOCAL-00003" summary="4月7，8两日的leetcode题目">
-      <created>1617889602350</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1617889602350</updated>
     </task>
     <task id="LOCAL-00004" summary="丑数的两个和最大数的一道，以及旋转数组的最小值">
       <created>1618204461296</created>
@@ -696,7 +690,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625651159416</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="简单的按照要求解码即可，leetcode没有考察错误输入的处理">
+      <created>1625752106004</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1625752106005</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -709,10 +710,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26492536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -721,8 +722,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38668555" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5963173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21388102" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.21583514" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -730,6 +731,9 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32152975" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="11" />
+      <window_info anchor="bottom" id="Log Analyzer" order="12" />
+      <window_info anchor="bottom" id="SOQL Query" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -782,7 +786,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="无序数组第k大问题，快排思想" />
     <MESSAGE value="分析存在必胜策略，返回true" />
     <MESSAGE value="二分的思想解决找数组峰的问题" />
     <MESSAGE value="状态机的方式硬编码写的" />
@@ -807,7 +810,8 @@
     <MESSAGE value="正常的调库" />
     <MESSAGE value="黑历史，，，" />
     <MESSAGE value="二叉树序列化与反序列化" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树序列化与反序列化" />
+    <MESSAGE value="简单的按照要求解码即可，leetcode没有考察错误输入的处理" />
+    <option name="LAST_COMMIT_MESSAGE" value="简单的按照要求解码即可，leetcode没有考察错误输入的处理" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1834,7 +1838,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Solution301_499/Solution403.java</url>
-          <line>17</line>
+          <line>19</line>
           <properties />
           <option name="timeStamp" value="303" />
         </line-breakpoint>
@@ -2132,6 +2136,54 @@
           <properties />
           <option name="timeStamp" value="388" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution787.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Query.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Query.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution524.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution600.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution500_/Solution600.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution301_499/Solution437.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview/Solution17_11.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Solution50_99/Solution66.java</url>
           <line>29</line>
@@ -2163,198 +2215,6 @@
     <SUITE FILE_PATH="coverage/leetcode_solutions$Solution23.ic" NAME="Solution23 Coverage Results" MODIFIED="1602600695049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution203.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution155.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
-            <element signature="e#1983#1984#0" expanded="true" />
-            <element signature="e#2026#2027#0" expanded="true" />
-            <element signature="e#2053#2054#0" expanded="true" />
-            <element signature="e#2107#2108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution474.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution494.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1049.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution279.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution518.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution879.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="53" lean-forward="true" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution322.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution852.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution238.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="1232" column="22" selection-start-line="1232" selection-start-column="22" selection-end-line="1232" selection-end-column="22" />
-          <folding>
-            <element signature="e#47036#47037#0" expanded="true" />
-            <element signature="e#47092#47093#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution374.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution278.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution230.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1744.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1738.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution215.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution877.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution162.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution50_99/Solution65.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1449.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -2543,30 +2403,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution208.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="46" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution403.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution664.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1418.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
@@ -2624,6 +2460,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution726.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution547.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution765.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution208.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="46" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution787.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution664.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1473.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -2631,10 +2515,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution726.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution403.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="528">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="556" selection-start-line="556" selection-end-line="556" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution447.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution524.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" selection-start-line="8" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution678.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution600.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1894.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utils/UnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution162.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution371.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution437.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" selection-start-line="8" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution223.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution500_/Solution1436.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution482.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution301_499/Solution405.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Param.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1968">
+          <caret line="123" column="5" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" selection-start-line="8" selection-end-line="176" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution151_300/Solution210.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview/Solution17_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
